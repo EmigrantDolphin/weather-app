@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "TAEe5ZdK6tBYWkgY1IsTCLTKWOVsActAk8adubIh3NC7IWHrGEtbjFepnTxZQrbtGB827g5tskIGeAIlU62BMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nbuiko\\source\\repos\\weatherapp\\api-weatherapp\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nbuiko\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\nbuiko\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\nbuiko\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\nbuiko\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
+    "C:\\Users\\nbuiko\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\nbuiko\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\nbuiko\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\nbuiko\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\nbuiko\\.nuget\\packages\\oneof\\3.0.223\\oneof.3.0.223.nupkg.sha512"
+  ],
+  "logs": []
+}

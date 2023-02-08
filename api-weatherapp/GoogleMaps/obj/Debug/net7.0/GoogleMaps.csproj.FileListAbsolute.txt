@@ -1,0 +1,12 @@
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\GoogleMaps\bin\Debug\net7.0\GoogleMaps.deps.json
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\GoogleMaps\bin\Debug\net7.0\GoogleMaps.dll
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\GoogleMaps\bin\Debug\net7.0\GoogleMaps.pdb
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\GoogleMaps\obj\Debug\net7.0\GoogleMaps.csproj.AssemblyReference.cache
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\GoogleMaps\obj\Debug\net7.0\GoogleMaps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\GoogleMaps\obj\Debug\net7.0\GoogleMaps.AssemblyInfoInputs.cache
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\GoogleMaps\obj\Debug\net7.0\GoogleMaps.AssemblyInfo.cs
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\GoogleMaps\obj\Debug\net7.0\GoogleMaps.csproj.CoreCompileInputs.cache
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\GoogleMaps\obj\Debug\net7.0\GoogleMaps.dll
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\GoogleMaps\obj\Debug\net7.0\refint\GoogleMaps.dll
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\GoogleMaps\obj\Debug\net7.0\GoogleMaps.pdb
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\GoogleMaps\obj\Debug\net7.0\ref\GoogleMaps.dll

@@ -1,0 +1,6 @@
+docker build ..\api-weatherapp\ -f ..\api-weatherapp\api-weatherapp\Dockerfile -t lootexplore.azurecr.io/be-weatherapp:latest
+docker push lootexplore.azurecr.io/be-weatherapp:latest
+
+
+docker build ..\fe-weatherapp -f ..\fe-weatherapp\Dockerfile -t lootexplore.azurecr.io/fe-weatherapp:latest
+docker push lootexplore.azurecr.io/fe-weatherapp:latest

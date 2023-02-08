@@ -1,0 +1,51 @@
+.search-bar-wrap {
+    padding-left: 5px;
+}
+
+div {
+    width: 200px;
+}
+p {
+    width: 200px;
+    padding-left: 5px;
+}
+input {
+    width: 100%;
+    padding-left: 5px;
+}
+
+
+.search-bar {
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    padding-right: 0;
+    border-width: 0;
+}
+
+.search-bar.options-present {
+    border-radius: 10px 10px 0px 0px;
+}
+
+.options {
+    position: absolute;
+    z-index: 1;
+}
+
+.search-option {
+    background-color: #a1a1a1;
+    margin: 0;
+    user-select: none;
+    height: 30px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    text-align: left;
+}
+
+.search-option:hover {
+    background-color: #858585;
+    cursor: pointer;
+}
+
+.search-option.last-option {
+    border-radius: 0px 0px 10px 10px;
+}

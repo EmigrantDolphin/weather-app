@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FDMVfNykKwlaDb/q9uEOU8fRw/L0VKqO+rYOu3lThe0h3hn8Ii8F9G7UkU9PJZJaE7mzo7zvNq7zqeDh9hRSaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nbuiko\\source\\repos\\weatherapp\\api-weatherapp\\OneOfWrapper\\OneOfWrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nbuiko\\.nuget\\packages\\oneof\\3.0.223\\oneof.3.0.223.nupkg.sha512"
+  ],
+  "logs": []
+}

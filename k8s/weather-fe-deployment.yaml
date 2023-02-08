@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: fe-weatherapp
+  namespace: weatherapp
+  labels:
+    app: fe-weatherapp
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: fe-weatherapp
+  template:
+    metadata:
+      labels:
+        app: fe-weatherapp
+    spec:
+      containers:
+      - name: fe-weatherapp
+        image: lootexplore.azurecr.io/fe-weatherapp:latest
+        ports:
+        - containerPort: 3000

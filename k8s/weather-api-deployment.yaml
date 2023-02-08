@@ -1,0 +1,34 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: be-weatherapp
+  namespace: weatherapp
+  labels:
+    app: be-weatherapp
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: be-weatherapp
+  template:
+    metadata:
+      labels:
+        app: be-weatherapp
+    spec:
+      containers:
+      - name: be-weatherapp
+        image: lootexplore.azurecr.io/be-weatherapp:latest
+        ports:
+        - containerPort: 80
+        - containerPort: 443
+        env:
+        - name: GoogleMapsApiKey
+          valueFrom:
+            secretKeyRef:
+              name: api-secret-keys
+              key: GoogleMapsApiKey
+        - name: OpenWeatherApiKey
+          valueFrom:
+            secretKeyRef:
+              name: api-secret-keys
+              key: OpenWeatherApiKey

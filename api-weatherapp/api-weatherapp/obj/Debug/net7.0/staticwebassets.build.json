@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8NfDO7NT+MypVlvltAfHs7W4nPS8XxmDximnB0o8cHM=",
+  "Source": "api-weatherapp",
+  "BasePath": "_content/api-weatherapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\OneOfWrapper\bin\Debug\net7.0\OneOfWrapper.deps.json
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\OneOfWrapper\bin\Debug\net7.0\OneOfWrapper.dll
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\OneOfWrapper\bin\Debug\net7.0\OneOfWrapper.pdb
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\OneOfWrapper\obj\Debug\net7.0\OneOfWrapper.csproj.AssemblyReference.cache
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\OneOfWrapper\obj\Debug\net7.0\OneOfWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\OneOfWrapper\obj\Debug\net7.0\OneOfWrapper.AssemblyInfoInputs.cache
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\OneOfWrapper\obj\Debug\net7.0\OneOfWrapper.AssemblyInfo.cs
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\OneOfWrapper\obj\Debug\net7.0\OneOfWrapper.csproj.CoreCompileInputs.cache
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\OneOfWrapper\obj\Debug\net7.0\OneOfWrapper.dll
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\OneOfWrapper\obj\Debug\net7.0\refint\OneOfWrapper.dll
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\OneOfWrapper\obj\Debug\net7.0\OneOfWrapper.pdb
+C:\Users\nbuiko\source\repos\weatherapp\api-weatherapp\OneOfWrapper\obj\Debug\net7.0\ref\OneOfWrapper.dll
